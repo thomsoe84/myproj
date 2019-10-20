@@ -1,2 +1,2 @@
 def kali_dua(input):
-    return 10
+    return input * 2
